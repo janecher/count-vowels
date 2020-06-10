@@ -16,5 +16,6 @@ $(document).ready(function(){
     event.preventDefault();
     const sentence = $("input").val();
 
+    $("#answer").text("There are " + countVowels(sentence) + " vowels in your sentence");
   });
 });
