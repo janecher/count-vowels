@@ -1,37 +1,33 @@
-# _{Application Name}_
+# _Vowel Counter_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _An application to count vowels, 6.10.20_
 
-#### By **Evgeniya Chernaya**
+#### By **Evgeniya Chernaya and Micheal Hansen**
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This application takes a sentence and counts up the number of vowels. It can handle single letters, single words, and whole sentences, regardless of capitalization._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Download the git repo_
+* _Open index.html in your browser of choice_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_None currently known_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Reach out through the github account_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Programmed in VS Code. Uses bootstrap and jQuery._
 
 ### License
 
 _This software is licensed under the MIT license_
 
-Copyright (c) 2020 **Evgeniya Chernaya**.
+Copyright (c) 2020 **Evgeniya Chernaya and Micheal Hansen**.
